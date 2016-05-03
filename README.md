@@ -15,3 +15,5 @@ http://www.coderslexicon.com/chain-of-responsibility-pattern-c/
 ## Project Description
 Given a noun in Yup'ik, it will output the base form.
 
+Rule is given in *A Practical Grammar of the Central Alaskan Yup'ik Eskimo Language* on page 31.
+
